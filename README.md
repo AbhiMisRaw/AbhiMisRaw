@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhiMisRaw
 -  I would be a Master's in Computer Applications
 - 👀 I’m interested in _Android Development_ & _DevOps_.
-- 🌱 I’m currently learning Android using Kotlin
+- 🌱 I’m currently learning _Flutter_
 - 📫 How to reach me _Abhishek Mishra_ 
 - _LinkedIn_ : https://www.linkedin.com/in/abhimisraw2020/
 - _Leetcode_ : https://leetcode.com/Abhi_mis_raw/
