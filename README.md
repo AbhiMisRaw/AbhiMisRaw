@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimisraw" alt="abhimisraw" /></a> </p>
 
-- 🔭 I’m currently working on **BrochureXR**
+- 🔭 I’m currently working on **Full Stack web Development using REACT and DJANGO**
 
-- 🌱 I’m currently learning **AR Foundation, ARCore and Android**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [abhimisraw.github.io](abhimisraw.github.io)
 
-- 💬 Ask me about **Java, Kotlin, AR**
+- 💬 Ask me about **Java,JavaScript, Puthon, Kotlin, AR**
 
 - 📫 How to reach me **abhiimiishra@gmail.com**
 
