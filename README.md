@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,JavaScript, Puthon, Kotlin, AR**
 
-- 📫 How to reach me (Email)[abhiimiishra@gmail.com]
+- 📫 How to reach me [Email[(abhiimiishra@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
