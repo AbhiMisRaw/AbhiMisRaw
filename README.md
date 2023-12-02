@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](abhimisraw.github.io)
 
-- 💬 Ask me about **Java,JavaScript, Puthon, Kotlin, AR**
+- 💬 Ask me about **Java, JavaScript, Python, Kotlin, AR**
 
 - 📫 How to reach me  <abhiimiishra@gmail.com>
 
