@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | Django | Python | Golang |  AR/VR Explorer | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | Backend Enthusiast | Django | Python | Spring Boot | Java | Golang |  AR/VR Explorer | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimisraw&label=Profile%20views&color=0e75b6&style=flat" alt="abhimisraw" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Full Stack web Development using REACT and DJANGO**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservices in Django**
 
 - 👨‍💻 All of my projects are available at [Here](abhimisraw.github.io)
 
-- 💬 Ask me about **Java, JavaScript, Python, Kotlin, AR**
+- 💬 Ask me about **Java, Python, Golang, JavaScript, Backend (Django, Flask & Spring-Boot)**
 
 - 📫 How to reach me  <abhiimiishra@gmail.com>
 
